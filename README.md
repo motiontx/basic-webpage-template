@@ -1,3 +1,7 @@
-# Basic-Webpage-Structure
+# Basic-Webpage-Template
 
-Basic structure of a web page designed to make the start of small projects faster.
+This repository was created with the purpose of accelerating the start-up stage of small projects or experiments based on web technologies.
+
+---
+
+Made with ❤️ by Vittorio Retrivi
